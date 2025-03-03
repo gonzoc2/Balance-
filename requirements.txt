@@ -2,5 +2,5 @@ pandas
 streamlit
 requests
 openpyxl
-numpy>=1.21,<1.26
+numpy>=1.26
 
