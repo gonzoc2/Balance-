@@ -2,6 +2,8 @@ import pandas as pd
 import streamlit as st
 from io import BytesIO
 import requests
+import numpy as np
+import locale
 from openpyxl import load_workbook
 
 # URL del archivo de mapeo
