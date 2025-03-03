@@ -1,7 +1,6 @@
 pandas
 streamlit
 requests
-locale
 openpyxl
 setuptools>=65.5.0
 wheel
