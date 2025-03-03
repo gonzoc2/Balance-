@@ -3,4 +3,5 @@ streamlit
 requests
 openpyxl
 setuptools>=65.5.0
+numpy>=1.21,<1.26
 wheel
