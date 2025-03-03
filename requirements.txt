@@ -1,13 +1,9 @@
-# Librerías esenciales
+
 pandas
 streamlit
 numpy
 requests
 locale
-
-# Manejo de archivos en memoria
 openpyxl
-
-# Extras recomendados para evitar errores en la instalación
 setuptools>=65.5.0
 wheel
